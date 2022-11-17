@@ -9,7 +9,7 @@ Techcareer tarafından 17 Ekim-8 Kasım tarihleri arasında düzenlenen 45 saatl
     - AREA 2'de 1 adet PC son kullanıcısı yerleştirilmiştir.
     - AREA 3'de ise 1 adet laptop son kullanıcısı yerleştirilmiştir.
 ### Projenin Amacı
-- 2. ve 3. bölgedeki end devicelardan, 1. bölgede bulunan DNS ve WEB sunucularına hem IPv4 hem de IPv6 protokolleri ile erişilmelidir. 
+- AREA 2 ve AREA 3'deki end devicelardan, 1. bölgede bulunan DNS ve WEB sunucularına hem IPv4 hem de IPv6 protokolleri ile erişilmelidir. 
 - Routerlar arasındaki iletişim IPv4 ve IPv6 için OSPF ile yapılandırılmalıdır.
 - ACL kuralları kullanılarak sunucuların sadece ilgili servis portlarına erişilmesi ve geriye kalan tüm sunucu portlarının kapatılması gerekmektedir.
  ### Proje Çıktıları
