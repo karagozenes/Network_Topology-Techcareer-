@@ -10,7 +10,7 @@ Techcareer tarafından 17 Ekim-8 Kasım tarihleri arasında düzenlenen 45 saatl
     - AREA 3'de ise 1 adet laptop son kullanıcısı yerleştirilmiştir.
 ### Projenin Amacı
 - AREA 2 ve AREA 3'deki end devicelardan, AREA 1'de bulunan DNS ve WEB sunucularına hem IPv4 hem de IPv6 protokolleri ile erişilmelidir. 
-- Routerlar arasındaki iletişim IPv4 ve IPv6 için OSPF ile yapılandırılmalıdır.
+- Routerlar arasındaki iletişim IPv4 ve IPv6 için OSPF olarak yapılandırılmalıdır.
 - ACL kuralları kullanılarak sunucuların sadece ilgili servis portlarına erişilmesi ve geriye kalan tüm sunucu portlarının kapatılması gerekmektedir.
  ### Proje Çıktıları
  Aşağıdaki görselde AREA 3'de bulunan PC makinesinden DNS ve WEB sunucularına IPv4 protokolü ile ping erişimin sağlanamadığı görülmektedir.
