@@ -1,5 +1,5 @@
 # Techcareer Network&Security Bootcamp Bitirme Projesi
-Techcareer tarafından 17 Ekim-8 Kasım tarihleri arasında düzenlenen 45 saatlik Network&Security bootcampini başarılı bir şekilde tamamlamak için hazırlanmış projedir. Hazırlanması istenen topoloji aşağıdaki gibidir.
+Techcareer tarafından 17 Ekim-8 Kasım tarihleri arasında düzenlenen 45 saatlik Network&Security bootcampini başarılı bir şekilde tamamlamak için hazırlanmış bir projedir. Hazırlanması istenen topoloji aşağıdaki gibidir.
 ![image](https://user-images.githubusercontent.com/50342974/202558093-025891be-52a2-4fc4-8a48-aabdcdf65034.png)
 ### Proje Ortamı
 - Proje Cisco Packet Tracer uygulaması ile simülasyon ortamında geliştirilmiştir. 
